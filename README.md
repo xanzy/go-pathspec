@@ -5,7 +5,7 @@ A package for pattern matching of file paths. Currently the gitignore and chefig
 
 ## Author
 
-Sander van Harmelen (<sander@xanzy.io>)
+Sander van Harmelen (<sander@vanharmelen.nl>)
 
 ## License
 
